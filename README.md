@@ -1,6 +1,6 @@
 <h1>Scientific Calculator</h1><br>
 Name : Jammoju Srinivasa Chary<br>
-Cdtech Intern ID: CITS915
+Codtech Intern ID: CITS915
 
 ## Overview
 
